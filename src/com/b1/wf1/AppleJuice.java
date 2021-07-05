@@ -19,9 +19,4 @@ public class AppleJuice extends FoodItems implements IVeg {
 		System.out.println("1.APPLE, 2.MILK");
 	}
 
-	@Override
-	public void printMainIngredents() {
-		// TODO Auto-generated method stub
-		
-	}
 }
