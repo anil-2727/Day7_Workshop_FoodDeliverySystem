@@ -18,10 +18,4 @@ public class PaniPuri extends FoodItems implements IVeg {
 	public void mainIngredient() {
 		System.out.println("1.WATER, 2.PURI");
 	}
-
-	@Override
-	public void printMainIngredents() {
-		// TODO Auto-generated method stub
-		
-	}
 }
