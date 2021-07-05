@@ -21,9 +21,4 @@ public class Biriyani extends FoodItems implements INonVeg {
 		System.out.println("1.chicken, 2.RICE");
 	}
 
-	@Override
-	public void mainIngredient() {
-		// TODO Auto-generated method stub
-		
-	}
 }
