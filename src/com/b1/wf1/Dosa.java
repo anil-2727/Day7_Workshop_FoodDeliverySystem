@@ -18,10 +18,5 @@ public class Dosa extends FoodItems implements IVeg {
 	public void mainIngredient() {
 		System.out.println("1.CHETNI, 2.RICE");
 	}
-
-	@Override
-	public void printMainIngredents() {
-		// TODO Auto-generated method stub
-		
-	}
+	
 }
